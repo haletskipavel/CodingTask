@@ -1,0 +1,12 @@
+C:\Users\halet\source\repos\ResourceManager\CodingTask.Domain\bin\Debug\net6.0\CodingTask.Domain.deps.json
+C:\Users\halet\source\repos\ResourceManager\CodingTask.Domain\bin\Debug\net6.0\CodingTask.Domain.dll
+C:\Users\halet\source\repos\ResourceManager\CodingTask.Domain\bin\Debug\net6.0\CodingTask.Domain.pdb
+C:\Users\halet\source\repos\ResourceManager\CodingTask.Domain\obj\Debug\net6.0\CodingTask.Domain.csproj.AssemblyReference.cache
+C:\Users\halet\source\repos\ResourceManager\CodingTask.Domain\obj\Debug\net6.0\CodingTask.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halet\source\repos\ResourceManager\CodingTask.Domain\obj\Debug\net6.0\CodingTask.Domain.AssemblyInfoInputs.cache
+C:\Users\halet\source\repos\ResourceManager\CodingTask.Domain\obj\Debug\net6.0\CodingTask.Domain.AssemblyInfo.cs
+C:\Users\halet\source\repos\ResourceManager\CodingTask.Domain\obj\Debug\net6.0\CodingTask.Domain.csproj.CoreCompileInputs.cache
+C:\Users\halet\source\repos\ResourceManager\CodingTask.Domain\obj\Debug\net6.0\CodingTask.Domain.dll
+C:\Users\halet\source\repos\ResourceManager\CodingTask.Domain\obj\Debug\net6.0\refint\CodingTask.Domain.dll
+C:\Users\halet\source\repos\ResourceManager\CodingTask.Domain\obj\Debug\net6.0\CodingTask.Domain.pdb
+C:\Users\halet\source\repos\ResourceManager\CodingTask.Domain\obj\Debug\net6.0\ref\CodingTask.Domain.dll

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ResourceManager.ConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "10000 10000"
+    }
+  }
+}

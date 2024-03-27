@@ -1,0 +1,15 @@
+C:\Users\halet\source\repos\ResourceManager\ResourceManager.ConsoleApp\bin\Debug\net6.0\ResourceManager.ConsoleApp.exe
+C:\Users\halet\source\repos\ResourceManager\ResourceManager.ConsoleApp\bin\Debug\net6.0\ResourceManager.ConsoleApp.deps.json
+C:\Users\halet\source\repos\ResourceManager\ResourceManager.ConsoleApp\bin\Debug\net6.0\ResourceManager.ConsoleApp.runtimeconfig.json
+C:\Users\halet\source\repos\ResourceManager\ResourceManager.ConsoleApp\bin\Debug\net6.0\ResourceManager.ConsoleApp.dll
+C:\Users\halet\source\repos\ResourceManager\ResourceManager.ConsoleApp\bin\Debug\net6.0\ResourceManager.ConsoleApp.pdb
+C:\Users\halet\source\repos\ResourceManager\ResourceManager.ConsoleApp\obj\Debug\net6.0\ResourceManager.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\halet\source\repos\ResourceManager\ResourceManager.ConsoleApp\obj\Debug\net6.0\ResourceManager.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halet\source\repos\ResourceManager\ResourceManager.ConsoleApp\obj\Debug\net6.0\ResourceManager.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\halet\source\repos\ResourceManager\ResourceManager.ConsoleApp\obj\Debug\net6.0\ResourceManager.ConsoleApp.AssemblyInfo.cs
+C:\Users\halet\source\repos\ResourceManager\ResourceManager.ConsoleApp\obj\Debug\net6.0\ResourceManager.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\halet\source\repos\ResourceManager\ResourceManager.ConsoleApp\obj\Debug\net6.0\ResourceManager.ConsoleApp.dll
+C:\Users\halet\source\repos\ResourceManager\ResourceManager.ConsoleApp\obj\Debug\net6.0\refint\ResourceManager.ConsoleApp.dll
+C:\Users\halet\source\repos\ResourceManager\ResourceManager.ConsoleApp\obj\Debug\net6.0\ResourceManager.ConsoleApp.pdb
+C:\Users\halet\source\repos\ResourceManager\ResourceManager.ConsoleApp\obj\Debug\net6.0\ResourceManager.ConsoleApp.genruntimeconfig.cache
+C:\Users\halet\source\repos\ResourceManager\ResourceManager.ConsoleApp\obj\Debug\net6.0\ref\ResourceManager.ConsoleApp.dll
